@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/s3675965/rolls-royce-spec-reader/issues"
   },
-  "homepage": "https://github.com/s3675965/rolls-royce-spec-reader#readme"
+  "homepage": "https://github.com/s3675965/rolls-royce-spec-reader#readme",
+  "dependencies": {
+    "electron": "^8.1.1"
+  }
 }
